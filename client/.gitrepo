@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@other-ac:baldh/leraning-GraphQL-client.git
+	branch = main
+	commit = dee3265cfca1848a21517edc0f70bb3afd4b8894
+	parent = 00cd7237cb513ea8b8027ab40034dcb16748fdc7
+	method = merge
+	cmdver = 0.4.5
