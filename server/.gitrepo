@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@other-ac:baldh/leraning-GraphQL-server.git
 	branch = main
-	commit = 42354088f327d8c126d57f60a2320f591ee78cdd
-	parent = d59c8cdb53028ce27558bf0dac994366031aa1f5
+	commit = 04205193fd67e399737fddf2e4af478e06da6635
+	parent = e08f9a1423a999554a7fd266385c511817821cb5
 	method = merge
 	cmdver = 0.4.5
